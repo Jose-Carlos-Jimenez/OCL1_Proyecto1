@@ -1,0 +1,12 @@
+C:\Users\jose5\source\repos\[OCL1]Proyecto1\[OCL1]Proyecto1\obj\Debug\_OCL1_Proyecto1.Form1.resources
+C:\Users\jose5\source\repos\[OCL1]Proyecto1\[OCL1]Proyecto1\obj\Debug\_OCL1_Proyecto1.Properties.Resources.resources
+C:\Users\jose5\source\repos\[OCL1]Proyecto1\[OCL1]Proyecto1\obj\Debug\[OCL1]Proyecto1.csproj.GenerateResource.cache
+C:\Users\jose5\source\repos\[OCL1]Proyecto1\[OCL1]Proyecto1\bin\Debug\[OCL1]Proyecto1.exe.config
+C:\Users\jose5\source\repos\[OCL1]Proyecto1\[OCL1]Proyecto1\bin\Debug\[OCL1]Proyecto1.exe
+C:\Users\jose5\source\repos\[OCL1]Proyecto1\[OCL1]Proyecto1\bin\Debug\[OCL1]Proyecto1.pdb
+C:\Users\jose5\source\repos\[OCL1]Proyecto1\[OCL1]Proyecto1\bin\Debug\FastColoredTextBox.dll
+C:\Users\jose5\source\repos\[OCL1]Proyecto1\[OCL1]Proyecto1\bin\Debug\FastColoredTextBox.xml
+C:\Users\jose5\source\repos\[OCL1]Proyecto1\[OCL1]Proyecto1\obj\Debug\[OCL1]Proyecto1.csproj.CopyComplete
+C:\Users\jose5\source\repos\[OCL1]Proyecto1\[OCL1]Proyecto1\obj\Debug\[OCL1]Proyecto1.exe
+C:\Users\jose5\source\repos\[OCL1]Proyecto1\[OCL1]Proyecto1\obj\Debug\[OCL1]Proyecto1.pdb
+C:\Users\jose5\source\repos\[OCL1]Proyecto1\[OCL1]Proyecto1\obj\Debug\[OCL1]Proyecto1.csprojAssemblyReference.cache
