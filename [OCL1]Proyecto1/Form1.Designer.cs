@@ -239,7 +239,7 @@
             this.pictureBox11.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox11.Image")));
             this.pictureBox11.Location = new System.Drawing.Point(10, 10);
             this.pictureBox11.Name = "pictureBox11";
-            this.pictureBox11.Size = new System.Drawing.Size(1273, 356);
+            this.pictureBox11.Size = new System.Drawing.Size(1273, 746);
             this.pictureBox11.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
             this.pictureBox11.TabIndex = 25;
             this.pictureBox11.TabStop = false;
